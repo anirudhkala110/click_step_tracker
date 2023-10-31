@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  display: inline-block;
+  margin: 5px;
+  cursor: pointer;
+}
